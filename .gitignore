@@ -1,4 +1,20 @@
 /med-exam-llm-venv
 /data
+/edited_results
+/rag-from-scratch
+/results
+.RData
+.Rhistory
 .env
-results.xlsx
+correct answers.xlsx
+statistics.R
+usmle_stats_kevin.R
+usmle.R
+answer_extraction.ipynb
+data_handling_absite.ipynb
+data_handling_m1_m2.ipynb
+data_handling_subjects.ipynb
+main_absite.ipynb
+main_gyn.ipynb
+main_m1_m2.ipynb
+
